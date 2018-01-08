@@ -6,6 +6,7 @@ public class Demo {
 		// TODO Auto-generated method stub
 		System.out.println("this is new");
 		System.out.println("A new change");
+		System.out.println("last change");
 	}
 
 }
