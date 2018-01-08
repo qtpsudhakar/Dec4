@@ -8,6 +8,7 @@ public class Demo {
 		System.out.println("A new change");
 		System.out.println("last change");
 		System.out.println("change from remote");
+		System.out.println("another change from remote");
 	}
 
 }
