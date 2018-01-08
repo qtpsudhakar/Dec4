@@ -18,6 +18,8 @@ public class OhrmAddEmpTest1 {
 		// get driver
 		driver = DriverFactory.getDriver("chrome");
 		
+		System.out.println("this is first change");
+		
 		// specify page load timeout
 		driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
 
